@@ -21,7 +21,7 @@ This will start a server in your localhost which will automatically open the Net
 
 <br />
 
-NOTE :- In case, for any reason, the server of React failed to open the website automatically, then, you can manually open the website by copying the *localhost* url and paste it in the browser.
+In case, for any reason, the server of React failed to open the website automatically, then, you can manually open the website by copying the *localhost* url and paste it in the browser.
 
-##### NOTE: - This website is not mobile responsive, therefore, open this website either on a Laptop or on a Desktop.
+#### NOTE: - This website is not mobile responsive, therefore, open this website either on a Laptop or on a Desktop.
 
