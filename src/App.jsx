@@ -19,6 +19,7 @@ function App() {
     <>
       <h1 className="heading_style"><b> List of top Eight Netflix Series </b></h1>
       {Sdata.map(ncard)};
+      <h1 className="heading_style"><center><b> Created by Somenath Choudhury </b></center></h1>
     </>
   );
 }
