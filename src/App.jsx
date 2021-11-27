@@ -17,7 +17,7 @@ const ncard = (val) => {
 function App() {
   return (
     <>
-      <h1 className="heading_style"> List of top Eight Netflix Series</h1>
+      <h1 className="heading_style"><b> List of top Eight Netflix Series </b></h1>
       {Sdata.map(ncard)};
     </>
   );
