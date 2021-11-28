@@ -6,6 +6,7 @@ import "./index.css";
 const ncard = (val) => {
   return (
     <Card
+      key={val.id}
       imgsource={val.imgsource}
       title={val.title}
       sname={val.sname}
